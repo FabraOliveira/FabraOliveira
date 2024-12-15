@@ -1,6 +1,6 @@
 # Olá! Meu nome é Fabricio de Oliveira Bimbi 👋
 
-## Desenvolvedor Front-End em formação, apaixonado por tecnologia e design.
+## Desenvolvedor full stack em formação, apaixonado por tecnologia e design.
 
 ### Conheça minhas habilidades:
 

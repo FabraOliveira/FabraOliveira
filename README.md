@@ -16,12 +16,7 @@
 
 ### Sobre mim:
 
-Sou formado em **Tecnologia em Análise e Desenvolvimento de Sistemas** e atualmente estou cursando **Engenharia de Software** com previsão de conclusão em dezembro de 2025. Minha paixão por tecnologia e design me levou a explorar o **desenvolvimento web**, unindo criatividade e lógica para criar soluções inovadoras.
-
-Com experiência profissional como **Tutor de Ensino em uma faculdade EAD**, desenvolvo habilidades técnicas e interpessoais diariamente. Minhas principais responsabilidades incluem:
-- Auxiliar alunos com dúvidas sobre plataformas acadêmicas.
-- Oferecer suporte técnico em laboratórios de informática.
-- Ensinar habilidades básicas em ferramentas como Microsoft Office.
+Sou formado em **Tecnologia em Análise e Desenvolvimento de Sistemas** e atualmente cursando o último ano de Engenharia de Software. Minha paixão por tecnologia e design me levou a explorar o **desenvolvimento web**, unindo criatividade e lógica para criar soluções inovadoras.
 
 Atualmente, meu foco está no **desenvolvimento full stack**, utilizando tecnologias como **JavaScript, HTML, CSS, Node.js e React** para criar aplicações completas e escaláveis.
 

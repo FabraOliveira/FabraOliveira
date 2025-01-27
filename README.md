@@ -24,14 +24,19 @@ Meu objetivo é contribuir para projetos inovadores, resolver problemas complexo
 
 ---
 
-### Projetos em Destaque:
+### **Projetos em Destaque**
 
-#### **Tutorial de Como Estudar EAD**
-Um site desenvolvido com HTML e CSS, criado para orientar alunos de uma faculdade EAD sobre a metodologia acadêmica e fornecer dicas práticas para estudos. Este projeto foi uma oportunidade de aplicar conceitos fundamentais de front-end e design responsivo.  
-[➡ Acesse o projeto aqui](https://fabraoliveira.github.io/guia-studeo/)
+💰 **Planilha Financeira Automática**  
+[GitHub - Planilha Financeira](https://github.com/FabraOliveira/planilha-financeira?tab=readme-ov-file)  
+Uma planilha personalizada para controle financeiro, com recursos de automação e personalização.
 
-#### **Em Breve: Meu Portfólio Pessoal**
-Estou desenvolvendo um portfólio interativo com **React e Node.js** para exibir meus projetos, habilidades e experiências.
+🌐 **Portfólio - Curso HTML e CSS (Alura)**  
+[GitHub - Portfólio Curso Alura](https://github.com/FabraOliveira/portfolio-curso-alura/blob/main/README.md)  
+Projeto desenvolvido durante o curso de HTML e CSS da Alura, mostrando habilidades práticas em front-end.
+
+📚 **Primeiro Projeto HTML/CSS: Guia "Como Estudar EAD"**  
+[Acesse o Guia Studeo](https://fabraoliveira.github.io/guia-studeo/)  
+Meu primeiro projeto com HTML e CSS, voltado para ajudar estudantes a se organizarem no ensino a distância.
 
 ---
 

@@ -1,16 +1,16 @@
 <h1 align="center">👋 Olá! Eu sou o Fabricio de Oliveira</h1>
 
 <p align="center">
-Desenvolvedor Front-end apaixonado por criar experiências digitais intuitivas e acessíveis.
+Front-end focado em transformar ideias em experiências digitais incríveis.
 </p>
 
 <p align="center">
   <a href="https://fabraoliveira.github.io/portfolio/" target="_blank">
-    🌐 Acesse meu portfólio para me conhecer melhor e ver meus projetos!
+    🌐 Acesse meu portfólio!
   </a>
   &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/fabricio-de-oliveira-bimbi-516719223/" target="_blank">
-    💼 Conecte-se no LinkedIn
+    💼 Conecte-se comigo no LinkedIn.
   </a>
 </p>
 
